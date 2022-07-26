@@ -1,0 +1,10 @@
+Dados do aluno
+
+-Primeiro Nome: Karine
+-Profissão: Auxiliar Adm
+-Cidade: Osasco
+-O que faz nas horas vaga: Brinco com meu filho
+-Feedback sobre o curso Qualidade de Software: Absorvendo bastante o conteudo
+-Feedback sobre a plataforma de estudo da EBAC: Facil acesso
+
+Obrigado!!!
